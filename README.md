@@ -58,38 +58,6 @@ To leverage data science, machine learning, and analytics to solve real-world pr
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,100:302b63&height=60&section=header&text=Tech%20%26%20Tools%20I%20Work%20With&fontSize=20&fontColor=ffffff" width="100%"/>
-</div>
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-#### Languages
-<img src="https://skillicons.dev/icons?i=python,php,c,r,html&theme=dark" />
-
-#### ML & Data Science Libraries
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />&nbsp;
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-#### Tools & Infrastructure
-<img src="https://skillicons.dev/icons?i=git,github,docker,mysql,arduino,vscode,jupyter&theme=dark" />
-
-#### Statistical & Scientific Software
-<img src="https://img.shields.io/badge/Minitab-006B8F?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Octave-0790C0?style=for-the-badge&logo=octave&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-
-</div>
-
----
 
 <!-- SECTION BANNER -->
 <div align="center">
@@ -126,6 +94,41 @@ To leverage data science, machine learning, and analytics to solve real-world pr
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DPriyashan&theme=tokyonight" />
 </p>
 
+<!-- SECTION BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,100:302b63&height=60&section=header&text=Tech%20Tools&fontSize=20&fontColor=ffffff" width="100%"/>
+</div>
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+#### Languages
+<img src="https://skillicons.dev/icons?i=python,php,c,r,html&theme=dark" />
+
+#### ML & Data Science Libraries
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />&nbsp;
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+#### Tools & Infrastructure
+<img src="https://skillicons.dev/icons?i=git,github,docker,mysql,arduino,vscode,jupyter&theme=dark" />
+
+#### Statistical & Scientific Software
+<img src="https://img.shields.io/badge/Minitab-006B8F?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Octave-0790C0?style=for-the-badge&logo=octave&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+
+</div>
+
+---
+
+
 ### 📊 GitHub Analytics
 
 <div align="center">
@@ -147,8 +150,7 @@ To leverage data science, machine learning, and analytics to solve real-world pr
 
 ---
 
-<!-- CONNECT SECTION WITH SIDE GIF -->
-<img align="left" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="240" alt="data gif"/>
+
 
 ### 📬 Let's Connect
 
@@ -165,7 +167,7 @@ Don't hesitate to reach out!
 
 <!-- FOOTER -->
 <div align="center">
-  <i>"Data is the new oil — and I'm here to refine it. 🎓"</i>
+  <i>"Data is the new oil -and I'm here to refine it. 🎓"</i>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 </div>
