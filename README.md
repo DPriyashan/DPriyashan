@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Dinusha%20Priyashan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Undergraduate%20%E2%80%A2%20Data%20Science%20%E2%80%A2%204th%20Year&descSize=18&descAlignY=58&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F52BA,50:1E90FF,100:00BFFF&height=280&section=header&text=Dinusha%20Priyashan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20Undergraduate%20%7C%20University%20of%20Colombo&descSize=18&descAlignY=58&descAlign=50" width="100%"/>
 </div>
 
 <!-- TYPING ANIMATION -->
@@ -27,7 +27,7 @@
 
 
 
-## 👨‍💻 About Me
+## About Me
 
 I am a Final Year Data Science Undergraduate at the University of Colombo with a strong interest in data-driven decision making, machine learning, and statistical analysis. My academic and project experience spans data visualization, predictive modeling, business intelligence, and analytical research.
 
@@ -64,7 +64,7 @@ To leverage data science, machine learning, and analytics to solve real-world pr
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,100:302b63&height=60&section=header&text=Academic%20Focus%20Areas&fontSize=20&fontColor=ffffff" width="100%"/>
 </div>
 
-### 📖 What I'm Studying & Practising
+### What I'm Studying & Practising
 
 <div align="center">
 
@@ -82,7 +82,7 @@ To leverage data science, machine learning, and analytics to solve real-world pr
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,100:302b63&height=60&section=header&text=Academic%20Projects&fontSize=20&fontColor=ffffff" width="100%"/>
 </div>
 
-## 📂 Projects Portfolio
+## Projects Portfolio
 
 <p align="center">
   <a href="https://github.com/DPriyashan?tab=repositories">
@@ -99,7 +99,7 @@ To leverage data science, machine learning, and analytics to solve real-world pr
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,100:302b63&height=60&section=header&text=Tech%20Tools&fontSize=20&fontColor=ffffff" width="100%"/>
 </div>
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -129,37 +129,30 @@ To leverage data science, machine learning, and analytics to solve real-world pr
 ---
 
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DPriyashan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DPriyashan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" height="175"/>
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DPriyashan&theme=tokyonight&hide_border=true&background=0d1117" height="175"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DPriyashan&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DPriyashan&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" width="98%"/>
-</div>
+
+
 
 ---
 
 
 
-### 📬 Let's Connect
+### Let's Connect
 
 I'm a final year student actively looking for:
-- 🏢 **Internship** opportunities in data science
-- 🔬 **Research** collaborations
-- 🤝 **Project** partners to build and learn together
+- **Internship** opportunities in data science
+- **Research** collaborations
+- **Project** partners to build and learn together
 
-Don't hesitate to reach out!
+
 
 <br/><br/><br/>
 
@@ -169,5 +162,6 @@ Don't hesitate to reach out!
 <div align="center">
   <i>"Data is the new oil -and I'm here to refine it. 🎓"</i>
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+ <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:1E90FF,100:0F52BA&height=120&section=footer" width="100%"/>
 </div>
