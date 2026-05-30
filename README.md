@@ -114,23 +114,17 @@ To leverage data science, machine learning, and analytics to solve real-world pr
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,100:302b63&height=60&section=header&text=Academic%20Projects&fontSize=20&fontColor=ffffff" width="100%"/>
 </div>
 
-### 📌 Projects
+## 📂 Projects Portfolio
 
-<div align="center">
-  <a href="https://github.com/DPriyashan/ST_3011_Data_Analysis_Car.LK">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DPriyashan&repo=ST_3011_Data_Analysis_Car.LK&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<p align="center">
+  <a href="https://github.com/DPriyashan?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/DPriyashan/cs2001group_project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DPriyashan&repo=cs2001group_project&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-</div>
+</p>
 
----
-
-<!-- SECTION BANNER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,100:302b63&height=60&section=header&text=GitHub%20Stats&fontSize=20&fontColor=ffffff" width="100%"/>
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DPriyashan&theme=tokyonight" />
+</p>
 
 ### 📊 GitHub Analytics
 
