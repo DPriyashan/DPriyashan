@@ -12,12 +12,20 @@
 
 <!-- SOCIAL BADGES -->
 <div align="center">
-  <a href="www.linkedin.com/in/dinusha-priyashan-haputhanthiri-7b35b8379"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="dinushapriyashanedu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-  <a href="https://github.com/DPriyashan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/dinusha-priyashan-haputhanthiri-7b35b8379" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;
+
+  <a href="mailto:dinushapriyashanedu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>&nbsp;
+
+  <a href="https://github.com/DPriyashan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>&nbsp;
+
   <img src="https://komarev.com/ghpvc/?username=DPriyashan&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
 </div>
-
 <br/>
 
 ---
