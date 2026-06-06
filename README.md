@@ -69,37 +69,14 @@ To leverage data science, machine learning, and analytics to solve real-world pr
 
 <!-- SECTION BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,100:302b63&height=60&section=header&text=Academic%20Focus%20Areas&fontSize=20&fontColor=ffffff" width="100%"/>
-</div>
-
-### What I'm Studying & Practising
-
-<div align="center">
-
-| 📐 Statistical Inference | 🔗 Causal Inference | 📊 Multivariate Analysis |
-|:---:|:---:|:---:|
-| 🗃️ Big Data Analysis | 💬 Natural Language Processing | 🧠 Deep Learning |
-| 🗄️ Database Management | 🤖 Machine Learning | 📡 Data Visualization |
-
-</div>
-
----
-
-<!-- SECTION BANNER -->
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,100:302b63&height=60&section=header&text=Academic%20Projects&fontSize=20&fontColor=ffffff" width="100%"/>
 </div>
 
-## Projects Portfolio
 
 <p align="center">
   <a href="https://github.com/DPriyashan?tab=repositories">
     <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DPriyashan&theme=tokyonight" />
 </p>
 
 <!-- SECTION BANNER -->
@@ -135,23 +112,6 @@ To leverage data science, machine learning, and analytics to solve real-world pr
 </div>
 
 ---
-
-
-### GitHub Analytics
-
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DPriyashan&theme=tokyonight&hide_border=true&background=0d1117" height="175"/>
-</div>
-
-
-
-
-
----
-
-
 
 ### Let's Connect
 
